@@ -1,1 +1,1 @@
-* Empty Template'co
+# Empty Template (Replace with project specific readme)
